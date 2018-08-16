@@ -2,7 +2,7 @@
  * Private Mini-Chat
  * 
  * Created by Greg Byrne, June 2013
- * Email: byrne.greg@gmail.com
+ * https://www.linkedin.com/in/byrne-greg/
  * Copyright remains reserved
  * 
  * Package Description:
